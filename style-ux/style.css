@@ -1,0 +1,36 @@
+body {
+  background-color:rgb(208, 127, 19);
+}
+body {margin: 0;
+padding: 0;}
+
+
+/* this is how you target an /* ID */
+
+#theNav {}
+
+
+/* this is how you target a class */
+.theimagediv {}
+
+img {
+  width: 40vw;
+    border: 10px solid darkgoldenrod;
+
+h1 {font-size: 72px}
+
+}
+#theNav{background-color: yellow;
+height: 10vh;
+padding: 10vh 5vw 0;}
+
+
+#theNav a{
+padding-left: 2vw;
+text-decoration: none;
+font-size: 25px;
+
+}
+.centercontent {padding-left:20vw }
+
+  /* =================== */
